@@ -22,5 +22,5 @@ A sleek and lightweight **Money Manager** app built using **Flutter** and **Hive
 
 ---
 
-## 📁 Project Structure
+
 
