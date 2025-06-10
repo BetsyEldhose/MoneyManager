@@ -19,8 +19,6 @@ A sleek and lightweight **Money Manager** app built using **Flutter** and **Hive
 
 - **Flutter** – Cross-platform UI framework
 - **Hive** – Lightweight and blazing-fast key-value database
-- **Path Provider** – For accessing device storage
-- **Custom Widgets & Local State** – Clean, modular architecture
 
 ---
 
