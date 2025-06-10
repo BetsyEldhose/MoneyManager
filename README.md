@@ -13,7 +13,7 @@ A sleek and lightweight **Money Manager** app built using **Flutter** and **Hive
 - 💾 Offline-first with **Hive** database — no internet needed
 - ⚡ Fast startup and low memory usage
 
----
+
 
 ## 🧰 Tech Stack
 
