@@ -20,7 +20,7 @@ A sleek and lightweight **Money Manager** app built using **Flutter** and **Hive
 - **Flutter** – Cross-platform UI framework
 - **Hive** – Lightweight and blazing-fast key-value database
 
----
+
 
 
 
