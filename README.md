@@ -1,16 +1,28 @@
-# money_management
+# 💸 Money Manager App (Flutter + Hive)
 
-A new Flutter project.
+A sleek and lightweight **Money Manager** app built using **Flutter** and **Hive**. Easily track your **income** and **expenses**, manage transaction categories, and view summaries of your financial activity — all with blazing-fast local storage and an intuitive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Add, edit, and delete **Income** and **Expense** transactions
+- 🗂️ Categorize entries (e.g. Salary, Food, Transport, Entertainment)
+- 📆 Filter transactions by **custom date range**
+- 📊 View daily, weekly, or monthly summaries
+- 💾 Offline-first with **Hive** database — no internet needed
+- ⚡ Fast startup and low memory usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧰 Tech Stack
+
+- **Flutter** – Cross-platform UI framework
+- **Hive** – Lightweight and blazing-fast key-value database
+- **Path Provider** – For accessing device storage
+- **Custom Widgets & Local State** – Clean, modular architecture
+
+---
+
+## 📁 Project Structure
+
