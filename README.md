@@ -1,6 +1,6 @@
 # 💸 Money Manager App 
 
-A sleek and lightweight **Money Manager** app built using **Flutter** and **Hive**. Easily track your **income** and **expenses**, manage transaction categories, and view summaries of your financial activity — all with blazing-fast local storage and an intuitive UI.
+A sleek and lightweight **Money Manager** app built using **Flutter** and **Hive**. Easily track your **income** and **expenses**, manage transaction categories — all with blazing-fast local storage and an intuitive UI.
 
 
 
